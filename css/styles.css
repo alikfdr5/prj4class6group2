@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=Offside&family=Playfair+Display&family=Quicksand&family=Tilt+Prism&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=Offside&family=Playfair+Display&family=Poppins:wght@100&family=Quicksand&family=Tilt+Prism&display=swap');
+
 /* Changing the main font and background colour */
 
 body {
@@ -33,3 +37,11 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 }
+
+.my-font-name{
+font-family: 'poppins', cursive;
+	color:#000000;
+	font-weight: bolder;
+	
+}
+
