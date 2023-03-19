@@ -10,19 +10,19 @@
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	background-color: #E9DCC9;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #105652;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FFFFFF;
+	background-color: #105652;
 }
 
 /* Effect on social media buttons */
