@@ -47,3 +47,37 @@ footer a:hover {
 	
 }
 
+.w-50 {
+	font-size: 33px;
+ font-family: 'Round Pop'
+}
+
+p {
+font-size:larger
+}
+
+.aboutus {
+	font-size: 60px;
+	font-family: 'Round Pop';
+	text-align: center;
+	color:#05F76D
+
+}
+
+.btn-danger {
+	background: #9219F5;
+	border-color:#05F76D
+
+}
+
+.btn-warning {
+	background-color:#05F76D;
+	border-color:#9219F5
+}
+.py-md-4 {
+	background-color:#04D4D0
+}
+
+.display-3 {
+	font-weight: bolder ;
+}
