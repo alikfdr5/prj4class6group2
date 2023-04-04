@@ -55,6 +55,13 @@ footer a:hover {
  font-family: 'Round Pop'
 }
 
+
+.w-51 {
+	font-size: 33px;
+ font-family: 'Round Pop';
+ text-align: center
+}
+
 p {
 font-size:larger
 }
@@ -84,3 +91,4 @@ font-size:larger
 .display-3 {
 	font-weight: bolder ;
 }
+
