@@ -74,8 +74,10 @@ font-size:larger
 }
 
 .btn-warning {
-	background-color:#05F76D;
-	border-color:#9219F5
+	
+	background-color: black;
+	color:#ffffff;
+	border-color:#9219F5;
 }
 .py-md-4 {
 	background-color:#04D4D0
