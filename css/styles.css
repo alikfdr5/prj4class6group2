@@ -94,3 +94,13 @@ font-size:larger
 	font-weight: bolder ;
 }
 
+.nav-link {
+	font-weight: bolder;
+}
+
+.btn {
+	background-color: #05F76D !important;
+}
+.btn:hover {
+ background-color: pink !important;
+}
