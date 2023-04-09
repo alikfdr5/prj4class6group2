@@ -70,7 +70,7 @@ font-size:larger
 	font-size: 60px;
 	font-family: 'Round Pop';
 	text-align: center;
-	color:#05F76D
+	color:#000000
 
 }
 
@@ -96,6 +96,7 @@ font-size:larger
 
 .nav-link {
 	font-weight: bolder;
+	font-size: 18px
 }
 
 .btn {
@@ -120,9 +121,25 @@ font-size:larger
     gap:20px;
 }
 .container>div {
-    background-color: #06F277;
+    background-color: #ffffff;
     text-align: center;
     padding: 20px auto;
     font-size: 20px;
 }
 
+.carouseltext{
+	color:#000000;
+	font-weight: bolder;
+	font-family: 'Round Pop', sans-serif;
+}
+
+.imagescontent {
+	width: 200px;
+	display: block;
+	margin: auto;
+}
+
+.meettheteam {
+	align-items: center;
+	margin:auto;
+}
