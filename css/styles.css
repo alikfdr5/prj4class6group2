@@ -14,7 +14,6 @@
 
 body {
 	font-family: 'Fira Sans', sans-serif;
-
 	background-color: #ffffff;
 }
 
@@ -74,18 +73,6 @@ font-size:larger
 
 }
 
-.btn-danger {
-	background: #9219F5;
-	border-color:#05F76D
-
-}
-
-.btn-warning {
-	
-	background-color: black;
-	color:#ffffff;
-	border-color:#9219F5;
-}
 .py-md-4 {
 	background-color:#04D4D0
 }
@@ -100,11 +87,16 @@ font-size:larger
 }
 
 .btn {
-	background-color: #05F76D !important;
+	background-color: #9219F5 !important;
+	border-color:#9219F5;
+	font-weight: bolder;
 }
+
 .btn:hover {
- background-color: pink !important;
+ background-color:#05F66D !important;
+ font-weight: bolder;
 }
+
 .box {
       margin: auto;
       width: 700px;
@@ -142,4 +134,23 @@ font-size:larger
 .meettheteam {
 	align-items: center;
 	margin:auto;
+	margin-bottom: 50px;
+	text-align: center}
+
+.carousel {
+	margin: 50px
 }
+
+.product {
+	margin: 50px;
+	margin-top: 0px
+}
+
+.footer {
+font-size: 20px;
+}
+
+video {
+	height: auto;
+	width: 70%;
+  }
