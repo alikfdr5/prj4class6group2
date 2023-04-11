@@ -138,7 +138,7 @@ font-size:larger
 	text-align: center}
 
 .carousel {
-	margin: 50px
+	margin: 50px; 
 }
 
 .product {
@@ -154,3 +154,18 @@ video {
 	height: auto;
 	width: 70%;
   }
+
+  .row {
+	margin:auto;
+	width: 700px;
+	align-content:center
+  }
+
+  .form-label {
+	color:#000000
+  }
+
+  .button-toggle {
+	font-size: 20px
+  }
+
