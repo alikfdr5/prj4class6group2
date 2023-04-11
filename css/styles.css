@@ -105,6 +105,7 @@ font-size:larger
       border: 5px dotted #05F66D;
 	  
 }
+
 .container {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -112,6 +113,7 @@ font-size:larger
     padding: 10px;
     gap:20px;
 }
+
 .container>div {
     background-color: #06F66E;
     text-align: center;
@@ -135,7 +137,8 @@ font-size:larger
 	align-items: center;
 	margin:auto;
 	margin-bottom: 50px;
-	text-align: center}
+	text-align: center
+}
 
 .carousel {
 	margin: 50px; 
@@ -150,12 +153,12 @@ font-size:larger
 font-size: 20px;
 }
 
-video {
+.video {
 	height: auto;
 	width: 70%;
   }
 
-  .row {
+ .row {
 	margin:auto;
 	width: 700px;
 	align-content:center
@@ -168,4 +171,10 @@ video {
   .button-toggle {
 	font-size: 20px
   }
+
+  .values {
+	margin: 50px;
+	margin-top: 0px
+  }
+
 
