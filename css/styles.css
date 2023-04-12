@@ -160,7 +160,6 @@ font-size: 20px;
 
  .row {
 	margin:auto;
-	width: 700px;
 	align-content:center
   }
 
@@ -183,3 +182,16 @@ font-size: 20px;
 	margin-right: auto;
 }
 
+.form {
+	margin:auto;
+	width: 500px;
+	align-content:center;
+  }
+
+  .col-12 {
+padding:30px
+  }
+
+  .col-md-12 {
+	padding: 5px
+  }
