@@ -50,7 +50,7 @@
     </nav>
     <!-- End of navigation bar -->
 
-    <section class="container my-4"></section>
+    <div class="container my-4"> </div>
 
     <!-- Start of section adapted from https://getbootstrap.com/docs/5.1/examples/album/ -->
     <header class="py-2 py-md-4 py-lg-5 text-center container-fluid bg-gradient text-light">
@@ -79,17 +79,18 @@
 					<div class="button-toggle" datatoggle="buttons">
 				<input type="checkbox"> €100 
 			</div>
+       </div>
       </header>
 
       <form class="form g-3 py-lg-5 text-center container-fluid">
         <div class="col-md-12">
           <label for="validationDefault01" class="form-label">Name</label>
           <input type="text" class="form-control" id="validationDefault01"  required>
-        </div>
+         </div>
         <div class="col-md-12">
-          <label for="validationDefaultUsername" class="form-label">Email</label>
+          <label for="validationDefault02" class="form-label">Email</label>
           <div class="input-group">
-            <input type="text" class="form-control" id="validationDefaultUsername" aria-describedby="inputGroupPrepend2" required>
+            <input type="text" class="form-control" id="validationDefault02" required>
           </div>
         </div>
         <div class="col-md-12">
@@ -99,11 +100,10 @@
         <div class="col-md-12">
           <label for="validationDefault04" class="form-label">Date of expiry</label>
           <input type="text" class="form-control" id="validationDefault04" required>
-        </input>
         </div>
         <div class="col-md-12">
-          <label for="validationDefault02" class="form-label">CVV</label>
-          <input type="text" class="form-control" id="validationDefault02" required>
+          <label for="validationDefault05" class="form-label">CVV</label>
+          <input type="text" class="form-control" id="validationDefault05" required>
         </div>
         <div class="col-12">
           <button class="btn btn-primary" type="submit" onclick="myalert()">Submit form</button>
@@ -114,7 +114,7 @@
          </script>
         </div>
       </form>
-		</div> 
+
 		
 	 
     <!-- End of hero section -->
